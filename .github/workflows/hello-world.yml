@@ -1,3 +1,4 @@
+#self hosted test
 name: Java CI 
 on: push 
 env: # Set the secret as an input 
